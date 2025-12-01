@@ -26,7 +26,7 @@ A good plan means control; no plan means chaos.
 
 Business Continuity Planning (BCP) focuses on **maintaining critical business operations**, even if technology, facilities, or infrastructure fail. While contingency planning handles the immediate reaction, BCP answers the long-term question:
 
-➡️ *“How do we continue operating during a major disruption?”*
+*“How do we continue operating during a major disruption?”*
 
 Professional BCP includes:
 - **Business Impact Analysis (BIA):** ranking business functions by urgency and value.  
