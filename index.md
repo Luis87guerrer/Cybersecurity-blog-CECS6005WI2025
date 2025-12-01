@@ -1,13 +1,13 @@
 # Cybersecurity Blog – A Practical, Real-World Look at Modern Security  
 *By: Luis A. Guerrero Peña*
 
-Cybersecurity is often seen as something highly technical, but at its core, it’s about smart preparation, resilience, and understanding how technology behaves under pressure. In this blog, I explore three key topics — contingency planning, business continuity planning, and AI in cybersecurity.
+Cybersecurity is often seen as something highly technical, but at its core, it’s about smart preparation, resilience, and understanding how technology behaves under pressure. In this blog, I explore three key topics: contingency planning, business continuity planning, and AI in cybersecurity.
 
 ---
 
 ## 1. Contingency Planning: Your Structured Plan B
 
-Contingency planning is more than having a “backup plan.” It’s a documented, tested, and strategic roadmap that tells an organization exactly **how to respond when something breaks** — whether it's a ransomware attack, a database failure, or a major service disruption.
+Contingency planning is more than having a “backup plan.” It’s a documented, tested, and strategic roadmap that tells an organization exactly how to respond when something breaks, whether it's a ransomware attack, a database failure, or a major service disruption.
 
 Professionally, contingency planning includes:
 - Identifying technical single points of failure.  
