@@ -87,6 +87,3 @@ Together, contingency planning, business continuity planning, and responsible us
 
 - European Union Agency for Cybersecurity (ENISA). *Artificial Intelligence Cybersecurity Challenges.*  
   https://www.enisa.europa.eu/publications/artificial-intelligence-cybersecurity-challenges  
-
-- International Organization for Standardization (ISO). *ISO 22301: Security and Resilience — Business Continuity Management Systems.*  
-  https://www.iso.org/standard/75106.html  
