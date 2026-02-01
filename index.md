@@ -87,3 +87,4 @@ Together, contingency planning, business continuity planning, and responsible us
 
 - European Union Agency for Cybersecurity (ENISA). *Artificial Intelligence Cybersecurity Challenges.*  
   https://www.enisa.europa.eu/publications/artificial-intelligence-cybersecurity-challenges  
+- [Incident Response Plan]({{ "/incident-response/" | relative_url }})
